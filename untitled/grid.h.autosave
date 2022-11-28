@@ -1,0 +1,12 @@
+#ifndef GRID_H
+#define GRID_H
+
+// 表示不同大小的格子
+class Grid
+{
+public:
+    Grid();
+    
+};
+
+#endif // GRID_H
